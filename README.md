@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akbar287
-- 👀 I’m interested in Back End Developer and Mobile Programming
-- 🌱 I’m currently learning Flutter and Laravel
+- 👀 I’m interested in Back End and Front End Developer
+- 🌱 I’m currently learning Java Spring, React.js, Flutter and Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
